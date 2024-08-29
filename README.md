@@ -8,7 +8,6 @@
   Hi, there. <img src="https://github.com/gerald525/gerald525/blob/main/wave.gif" width="30" />
 
    ### Thanks for visiting :heart:
-  ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)
   &emsp;
   
 </h1>
