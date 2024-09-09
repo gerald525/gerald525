@@ -7,7 +7,7 @@
 <h1 align = "left">
   Hi, there. <img src="https://github.com/gerald525/gerald525/blob/main/wave.gif" width="30" />
 
-   ### Thanks for visiting
+   ### Thanks for visiting :heart:
   &emsp;
   
 </h1>
