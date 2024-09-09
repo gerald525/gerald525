@@ -16,9 +16,10 @@
 #### Web Development
 
 -   Basic: JavaScript, TypeScript, Python, Java, Golang, C#, C++
--   Front-End: React.js, Next.js, Redux, Gatsby.js, Angular, Vue.js, Nuxt.js
+-   Front-End: React, Next.js, Redux, Gatsby.js, Angular, Vue.js, Nuxt.js
 -   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, .Net
 -   Database: Supabase, Firebase, MySQL, PostgreSQL, Oracle, SQLite, MongoDB
+-   Moblie: React Native
 -   Tools: Jira, Trello, ClickUp
 
 #### Mobile Development
