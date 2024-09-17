@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Developer;Senior+Full+Stack+Developer;Especially+Backend+Development" alt="gerald525" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Engineer;Senior+Full+Stack+Developer;Especially+Backend+Development" alt="gerald525" /></a>
 </p>
 
 <!-- Short Introduction -->
@@ -11,7 +11,7 @@
   &emsp;
   
 </h1>
-<p>I am a software engineer who can push the envelope, with a wealth of experience in web and mobile development, as well as DevOps engineering. I am adept at leveraging technologies like Docker and Kubernetes, and I am well-versed in the cloud technology realm, such as AWS, with a deep well of knowledge and substantial experience in my toolkit.</p>
+<p>I am a senior full-stack engineer who can push the envelope, with a wealth of experience in web and mobile development, as well as DevOps engineering. I am adept at leveraging technologies like Docker and Kubernetes, and I am well-versed in the cloud technology realm, such as AWS, with a deep well of knowledge and substantial experience in my toolkit.</p>
 
 #### Web Development
 
