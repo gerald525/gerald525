@@ -49,25 +49,25 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,java,py,go,ruby,cs,solidity,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,py,go,cs" />
   </div>
 
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,Sass,Less,Scss,react,redux,nextjs,vue,nuxtjs,angular" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
   </div>
   
 #### 🧵Database & Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,redis,postman" />
   </div>
 
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
   </div>
 </div>
