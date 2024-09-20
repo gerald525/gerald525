@@ -55,7 +55,7 @@
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,Sass,Less,Scss,react,redux,nextjs,vue,nuxtjs,angular,chartjs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
   </div>
   
